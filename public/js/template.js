@@ -11,6 +11,7 @@
 	$(document).ready(function(){
 	
 		$(".banner-image").backstretch('images/banner.jpg');
+		//$(".myCarousel").backstretch('images/banner.jpg');
 		
 		// Fixed header
 		//-----------------------------------------------
